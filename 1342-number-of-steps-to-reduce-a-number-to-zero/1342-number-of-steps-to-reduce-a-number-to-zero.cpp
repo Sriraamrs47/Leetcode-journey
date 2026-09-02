@@ -5,7 +5,8 @@ public:
         while (num > 0) {
             if (num % 2 == 0) {
                 num = num / 2;
-            } else {
+            } 
+            else {
                 num = num - 1;
             }
             s = s + 1;

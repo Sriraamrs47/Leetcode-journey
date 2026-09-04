@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1528-shuffle-string) |
 ## Array
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1528-shuffle-string) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1528-shuffle-string) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1512-number-of-good-pairs) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Counting
 |  |
 | ------- |

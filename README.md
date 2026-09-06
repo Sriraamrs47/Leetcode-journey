@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1528-shuffle-string) |

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1512-number-of-good-pairs) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting Sort
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Greedy
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->

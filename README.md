@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1528-shuffle-string) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1929-concatenation-of-array](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -71,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1512-number-of-good-pairs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2413-smallest-even-multiple](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2413-smallest-even-multiple) |
 ## String
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->

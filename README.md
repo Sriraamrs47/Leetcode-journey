@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2325-decode-the-message](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2325-decode-the-message) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1748-sum-of-unique-elements) |
+| [2325-decode-the-message](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2325-decode-the-message) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Counting
 |  |

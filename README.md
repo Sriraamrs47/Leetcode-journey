@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sriraamrs47/Leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
